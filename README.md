@@ -1,2 +1,3 @@
-# D2GF
-Official code repository for "Dual-Distribution Learning Framework for Long-Tailed Few-Shot Sonar Image Classification".
+# CDDL
+Official code repository for "Coordinated Dual-Distribution Learning for Few-Shot Long-Tailed
+Sonar Image Recognition".
